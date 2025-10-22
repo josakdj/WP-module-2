@@ -1,6 +1,6 @@
-# Module 16
+# Module 2
 
-### Movie Management System Project(up to 3 hours)
+### Basic theme functionality, Including CSS & JS
 
 <img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/5c9365fb-6128-4665-897d-5b2404ab7591" />
 _____________________________________________________________________________________________________________________________
